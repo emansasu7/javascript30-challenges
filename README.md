@@ -1,5 +1,5 @@
 # Javascript30 Challenges
 
-My solutions for the JS30 [Challenge](https://javascript30.com/) by [Wes Bos](https://wesbos.com/)
+Working on improving my Javascript skills by following the Javascript30 [Challenge](https://javascript30.com/) tutorial by [Wes Bos](https://wesbos.com/) and by adding extra features as well.
 
 [See Solutions](https://goofy-mcclintock-45309e.netlify.app/)
